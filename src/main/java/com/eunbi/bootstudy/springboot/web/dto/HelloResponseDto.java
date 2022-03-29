@@ -1,6 +1,6 @@
 package com.eunbi.bootstudy.springboot.web.dto;
 
-import jdk.nashorn.internal.objects.annotations.Getter;
+import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 
 @Getter
